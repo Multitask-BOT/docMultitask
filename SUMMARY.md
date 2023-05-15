@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Documentation de Multitask](README.md)
-* [Quick Start](quick-start.md)
+* [Installation du bot](installation-du-bot.md)
