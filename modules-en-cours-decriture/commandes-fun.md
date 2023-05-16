@@ -8,13 +8,19 @@ description: Divertissez vous grâce aux commandes dite FUN de MultitaskBOT
 
 Commande permettant d'envoyer un message sous couvert d'anonymat. Elle fait parler Multitask à votre place.
 
+> /dit message: Bonjour à tous salon: #Général
+
 * Commande /roll
 
 Commande permettant de lancer un dès de 6 face ou plus selon l'argument que vous mettez
 
+> /roll
+
 * Commande /piece
 
 Commande permettant de lancer une pièce pour jouer au pile ou face
+
+> /piece
 
 * Commande /question
 
