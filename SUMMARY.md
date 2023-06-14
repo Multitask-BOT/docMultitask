@@ -6,3 +6,7 @@
 ## ⚠ Modules en cours d'écriture
 
 * [Commandes FUN](modules-en-cours-decriture/commandes-fun.md)
+
+***
+
+* [Commande de modération](commande-de-moderation.md)
