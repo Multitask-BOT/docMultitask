@@ -10,3 +10,4 @@
 ***
 
 * [Commande de modération](commande-de-moderation.md)
+* [Commande de salon](commande-de-salon.md)
