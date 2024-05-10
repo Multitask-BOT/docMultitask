@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Documentation de Multitask](README.md)
-* [Installation du bot](installation-du-bot.md)
+* [🏠Accueil](README.md)
+* [⚙️Installation](installation.md)
 
 ## Module
 
