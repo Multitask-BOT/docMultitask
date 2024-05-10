@@ -20,7 +20,7 @@ Si vous voulez rendre muet un membre de votre serveur. C'est super simple, utili
 
 Si vous voulez rendre la voix a un membre qui l'as perdu utilisez la commande /unmute \[membre] \[raison]
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Redonner la voix a un membre</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Pour expulser jacqo qui est pénible a insulter les membres du serveur, utilisez la commande /expulser \[membre] \[raison]
 
