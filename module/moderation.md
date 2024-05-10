@@ -4,7 +4,7 @@ description: >-
   Multitask
 ---
 
-# Commande de modération
+# 🔨 Modération
 
 Vous pouvez bannir Jacqo qui a diffuser des données compromettantes sur votre serveur utilisez la commande /ban \[membre] \[raison].\
 Vous n'êtes pas obliger de mettre une raison au bannissement.

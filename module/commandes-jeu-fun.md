@@ -2,7 +2,7 @@
 description: Divertissez vous grâce aux commandes dite FUN de MultitaskBOT
 ---
 
-# Commandes FUN
+# 🕹️ Commandes Jeu/Fun
 
 * Commande /dit
 

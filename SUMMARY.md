@@ -5,7 +5,7 @@
 
 ## Module
 
-* [Commande de modération](module/commande-de-moderation.md)
-* [Commande de salon](module/commande-de-salon.md)
-* [Commandes FUN](module/commandes-fun.md)
-* [Commandes d'informations](module/commandes-dinformations.md)
+* [🔨 Modération](module/moderation.md)
+* [✒️ Salon](module/salon.md)
+* [🕹️ Commandes Jeu/Fun](module/commandes-jeu-fun.md)
+* [ℹ️ Commandes d'informations](module/commandes-dinformations.md)

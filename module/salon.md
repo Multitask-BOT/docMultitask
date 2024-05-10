@@ -2,7 +2,7 @@
 description: Toutes les commande pour gérer vos salon se trouvent ici
 ---
 
-# Commande de salon
+# ✒️ Salon
 
 Tu veut effacer les trace de ta conversation avec ta Crush? pas de panique, utilise la commande /effacer \[nombre] \[salon]\
 Attention les messages de plus de 14 jours ne seront pas supprimés. Vous ne pouvez pas supprimer plus de 100 messages à la fois
