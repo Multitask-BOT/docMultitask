@@ -1,13 +1,10 @@
 # Table of contents
 
 * [Documentation de Multitask](README.md)
-* [Installation du bot](quick-start.md)
+* [Installation du bot](installation-du-bot.md)
 
-## ⚠ Modules en cours d'écriture
+## Module
 
-* [Commandes FUN](modules-en-cours-decriture/commandes-fun.md)
-
-***
-
-* [Commande de modération](commande-de-moderation.md)
-* [Commande de salon](commande-de-salon.md)
+* [Commande de salon](module/commande-de-salon.md)
+* [Commande de modération](module/commande-de-moderation.md)
+* [Commandes FUN](module/commandes-fun.md)
