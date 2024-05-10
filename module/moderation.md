@@ -24,5 +24,9 @@ Si vous voulez rendre la voix a un membre qui l'as perdu utilisez la commande /u
 
 Pour expulser jacqo qui est pénible a insulter les membres du serveur, utilisez la commande /expulser \[membre] \[raison]
 
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 Pour dé bannir Jacqo qui a compris ses bêtises ultra simple. Utilisez la commande /unban \[membre] \[raison]
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
