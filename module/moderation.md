@@ -26,7 +26,10 @@ Pour expulser jacqo qui est pénible a insulter les membres du serveur, utilisez
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Pour dé bannir Jacqo qui a compris ses bêtises ultra simple. Utilisez la commande /unban \[membre] \[raison]
+Pour bannir Jacqo qui n'a toujours pas compris qu'il enfrein les règles. Utilisez la commande /ban \[membre] \[raison]
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
+
+
+Pour dé bannir Jacqo qui a compris ses bêtises ultra simple. Utilisez la commande /unban \[membre] \[raison]
