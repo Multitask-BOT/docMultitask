@@ -1,6 +1,5 @@
 ---
 description: Mise à jour depuis la version 2.0.0
-hidden: true
 layout:
   title:
     visible: true
