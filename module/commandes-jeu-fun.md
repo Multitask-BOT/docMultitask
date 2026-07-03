@@ -1,27 +1,22 @@
----
-description: Divertissez vous grâce aux commandes dite FUN de MultitaskBOT
----
+# 🎲 Commandes Jeu/Fun
 
-# 🕹️ Commandes Jeu/Fun
+Amusez-vous avec ces commandes **FUN**.
 
-* Commande /dit
+### `/dit message? salon? couleur? titre? description? footer?`
+Fait parler Multitask à votre place. Peut envoyer un **embed** personnalisé.
+- `message` (texte simple) OU `titre`/`description`/`footer` (embed)
+- `couleur` accepte un hex (`#00FFAA`) ou nom commun si pris en charge
+- `salon` : cible un autre salon
 
-Commande permettant d'envoyer un message sous couvert d'anonymat. Elle fait parler Multitask à votre place.
+### `/roll faces?`
+Lance un dé.
+- Sans option : d6
+- Avec `faces` : ex. `20` pour un d20
+- Résultat affiché en embed.
 
-> /dit message: Bonjour à tous salon: #Général
+### `/piece`
+Pile ou face.
 
-* Commande /roll
-
-Commande permettant de lancer un dès de 6 face ou plus selon l'argument que vous mettez
-
-> /roll
-
-* Commande /piece
-
-Commande permettant de lancer une pièce pour jouer au pile ou face
-
-> /piece
-
-* Commande /question
-
-Commande permettant de poser des questions a Multitask et il répondra aléatoirement oui ou non. ⚠️⚠️⚠️ Cette commande n'est pas faite pour régler des soucis de santé. L'équipe de MultitaskBOT se décharge de toute responsabilité lors de l'utilisation de cette commande
+### `/question question:"..."`
+Répond **OUI** ou **NON** aléatoirement.
+> Note : à but ludique uniquement — ne pas utiliser pour des décisions sensibles.

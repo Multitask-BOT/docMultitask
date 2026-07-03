@@ -1,15 +1,15 @@
 # Table of contents
 
-* [🏠Accueil](README.md)
-* [⚙️Installation](installation.md)
-
-## Module
-
-* [🔨 Modération](module/moderation.md)
-* [✒️ Salon](module/salon.md)
-* [🕹️ Commandes Jeu/Fun](module/commandes-jeu-fun.md)
-* [ℹ️ Commandes d'informations](module/commandes-dinformations.md)
-
-## Utils
-
-* [Mises à jour](utils/mises-a-jour.md)
+* [Accueil](README.md)
+* [⚙️ Installation](installation.md)
+* [Module](module/README.md)
+  * [Modération](module/moderation.md)
+  * [✒️ Salon](module/salon.md)
+  * [🎲 Commandes Jeu/Fun](module/commandes-jeu-fun.md)
+  * [ℹ️ Commandes d'informations](module/commandes-informations.md)
+  * [🎧 Vocaux privés](module/vocaux-prives.md)
+  * [🏆 Niveaux & XP](module/niveaux-xp.md)
+  * [🎟️ Autorôles par invitation](module/autoroles-invitations.md)
+  * [🌤️ Météo](module/meteo.md)
+* [Utils](utils/README.md)
+  * [Mises à jour](utils/mises-a-jour.md)

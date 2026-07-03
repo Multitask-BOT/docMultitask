@@ -1,37 +1,18 @@
----
-description: Mise à jour depuis la version 2.0.0
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Mises à jour
 
-**2.2.1-02/11/2024**
+Historique depuis la 2.0.0 (extrait).
 
-> &#x20;**Correction**  Correction du système de niveau qui ne fonctionnais plus suite a la dernière mise à jour Correction de requête internes suite à l'ajout des vocaux privés.
->
->
->
-> &#x20;**Otimisation** Optimisation des connexions a la bdd Optimisation des requêtes afin de les rendre un peut plus rapides
+## 2.2.1 — 02/11/2024
+- Correction du système de **niveaux/XP** suite à la mise à jour.
+- Optimisation des connexions et requêtes BDD.
+- Ajouts internes pour **vocaux privés**.
 
-#### 2.0.0-24/09/2024
+## 2.x — 2025 (en cours)
+- **Vocaux privés** : page dédiée et /config.
+- **Autorôles par invitation** : mappages invitation → rôle.
+- **Niveaux & XP** : cartes personnalisables, commandes `/niveau` et `/top`.
+- **Météo** : nouvelle commande `/meteo`.
+- **Améliorations FUN** : `/dit` supporte les embeds complets.
+- **Stabilité** : optimisations et correctifs divers.
 
-> :hammer: **Modération**
->
-> * Modification de la commandes de mute afin de vous offrir la possibilité de mettre n'importe quel valeur pour le temps sans être bloqué. Temps par défaut : Minutes
-> * Ajout d'un message privé a l'utilisateur concerné afin qu'il soit au courant de sa sanction.
-
-> &#x20;:speaker: **Vocaux Privés**&#x20;
->
-> * Ajout de la configuration du système sur la commande \</config:1159888173917282334>
-> * Configuration pour l'activer et le désactiver (a la désactivation, le salon et la catégorie sont supprimés)
-> * Limite d'un salon de création de vocaux privés par serveur :warning: Pour utiliser ce système, il faut accorder l'autorisation **MoveMembers** de @Multitask BOT#7254 :warning:
+> Note : adaptez la numérotation exacte selon vos tags de release.

@@ -1,35 +1,28 @@
----
-description: >-
-  Gardez un serveur discord sain avec les outils et commande de modération de
-  Multitask
----
+# Modération
 
-# 🔨 Modération
+Gardez un serveur Discord sain avec les commandes de modération.
 
-Vous pouvez bannir Jacqo qui a diffuser des données compromettantes sur votre serveur utilisez la commande /ban \[membre] \[raison].\
-Vous n'êtes pas obliger de mettre une raison au bannissement.
+## Commandes
 
+### `/ban membre: raison?`
+Bannir un membre.
+- Option *raison* facultative.
+- Le membre reçoit un MP (si autorisé) avec le motif.
 
+### `/unban identifiant: raison?`
+Débannir un utilisateur par **ID** ou **tag** si disponible.
 
-Si vous voulez rendre muet un membre de votre serveur. C'est super simple, utilisez la commande /mute \[membre] \[temps] \[raison] le temps du mute dois être exprimé soit en seconde en se terminant par "s" soit en minutes en se terminant par "m" soit en heures en se terminant par "h"
+### `/kick membre: raison?`
+Expulser un membre du serveur.
 
-\
+### `/mute membre: durée? raison?`
+Rendre muet un membre pour une durée.
+- Durées supportées : `10s`, `5m`, `2h`, `3d`…
+- Sans durée, applique la valeur par défaut configurée.
 
+### `/unmute membre: raison?`
+Rendre la voix à un membre précédemment muet.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-Si vous voulez rendre la voix a un membre qui l'as perdu utilisez la commande /unmute \[membre] \[raison]
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-Pour expulser jacqo qui est pénible a insulter les membres du serveur, utilisez la commande /expulser \[membre] \[raison]
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-Pour bannir Jacqo qui n'a toujours pas compris qu'il enfrein les règles. Utilisez la commande /ban \[membre] \[raison]
-
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-
-
-Pour dé bannir Jacqo qui a compris ses bêtises ultra simple. Utilisez la commande /unban \[membre] \[raison]
+## Conseils
+- Créez un salon privé *#logs-moderation* pour y envoyer les journaux d’actions.
+- Vérifiez la hiérarchie des rôles : le rôle du bot doit être **au-dessus** des rôles des membres ciblés.

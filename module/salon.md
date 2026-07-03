@@ -1,11 +1,14 @@
----
-description: Toutes les commande pour gérer vos salon se trouvent ici
----
-
 # ✒️ Salon
 
-Tu veut effacer les trace de ta conversation avec ta Crush? pas de panique, utilise la commande /effacer \[nombre] \[salon]\
-Attention les messages de plus de 14 jours ne seront pas supprimés. Vous ne pouvez pas supprimer plus de 100 messages à la fois
+Commandes liées à la gestion des salons textuels.
 
-Tu en as marre que Jacqo spam sur le général de ton serveur? On a la solution. Tape la commande /slowmode \[temps] \[salon]\
-Et tu empêchera ce petit malin de spammer sur ton salon fétiche.
+### `/effacer nombre: salon?`
+Supprimer jusqu’à **100** messages récents (Discord limite >14 jours).
+- `nombre` : quantité (max 100)
+- `salon` : optionnel, sinon le salon courant
+
+### `/slowmode durée: salon?`
+Active un délai entre deux messages dans un salon pour limiter le spam.
+- Exemples : `5s`, `10s`, `1m`
+
+> Astuce : combinez `/slowmode` pendant un événement puis `/slowmode 0` pour revenir à la normale.
